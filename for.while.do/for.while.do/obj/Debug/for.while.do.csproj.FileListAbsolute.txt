@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\for.while.do\for.while.do\obj\Debug\for.while.do.csprojAssemblyReference.cache
+C:\Users\user\source\repos\for.while.do\for.while.do\obj\Debug\for.while.do.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\for.while.do\for.while.do\bin\Debug\@for.@while.@do.exe.config
+C:\Users\user\source\repos\for.while.do\for.while.do\bin\Debug\@for.@while.@do.exe
+C:\Users\user\source\repos\for.while.do\for.while.do\bin\Debug\@for.@while.@do.pdb
+C:\Users\user\source\repos\for.while.do\for.while.do\obj\Debug\@for.@while.@do.exe
+C:\Users\user\source\repos\for.while.do\for.while.do\obj\Debug\@for.@while.@do.pdb
