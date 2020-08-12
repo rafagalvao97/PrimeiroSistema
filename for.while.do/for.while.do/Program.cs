@@ -16,6 +16,7 @@ namespace @for.@while.@do
 
             float soma = 0;
             float media = 0;
+            var nome = "felipe";
             #endregion
 
             #region LAÇO DE REPETIÇÃO
